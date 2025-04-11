@@ -1,11 +1,11 @@
-# ONE | TECH FOUNDATION - Especialização Back-End  
+# ONE | TECH FOUNDATION - Especialização Back-End   
+  
 
 
-## Desafio Conta Bancaria
-
+## *Desafio Conta Bancaria*
 Implementar uma aplicação para controlar uma conta bancária virtual
 
-## 🔨 Objetivos do projeto
+## *🔨 Objetivos do projeto*
 - Criar um cabeçalho inicial com os dados do cliente (Nome, Tipo da Conta e Saldo)
 - Criar um menu que descreve as operações. Aqui você pode escolher o nome de método que mais lhe agradar, como *saca* (ou *transfere*, *enviaPix*) para simular a **retirada** de valores da conta
 e *deposita* (ou *recebeTransferencia*, *recebePix*) para representar a **entrada** de valores na conta.
@@ -15,6 +15,6 @@ e *deposita* (ou *recebeTransferencia*, *recebePix*) para representar a **entrad
 - Caso ele digite qualquer opção que não seja correta, deve apresentar a mensagem de opção inválida.
 - Usaremos a classe Scanner para fazer a leitura da opção do usuário.
 
-### Ferramentas utilizadas ###
+### *Ferramentas utilizadas* ###
 - Java 20
 - IntelliJ IDEA 2024.2.4 (Community Edition)
