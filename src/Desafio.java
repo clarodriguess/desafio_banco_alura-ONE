@@ -30,7 +30,7 @@ public class Desafio {
 
         switch (opcao){
             case 1:
-                System.out.println("Saldo atual: R$ " +saldo);//formatar 2 casas
+                System.out.println("Saldo atual: R$ " +saldo);
                 break;
             case 2:
                 System.out.println("Qual o valor a receber?");
